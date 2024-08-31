@@ -1,4 +1,4 @@
-## Hello there
+## Hello there 👋
 
 I'm Bryan, a **Software Engineer** based in Florianópolis (the Magic Island 🏝️) with a focus in backend and aiming to be a DevOps Engineer. I love to automate boring tasks and to refactor code. I **strive to make legible code**, with detailed documentation and easy to understand; a legible code is easier to maintain, fix and extend it (and with high level languages, the compiler does the hard work for us).
 
